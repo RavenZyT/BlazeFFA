@@ -1,0 +1,75 @@
+# Este plugin le pertenece al verdadero creador de FFA.
+# Para Blaze Network.
+# Este plugin ha sido re-codeado por GekaTiK.
+Gui: true
+Gui-Item-name: '&aKits'
+Gui-Item-Int: 340
+# Number item in the Gui
+Kit-item-1: 272
+Kit-item-2: 267
+Kit-item-3: 276
+Kit-item-4: 268
+Kit-item-5: 283
+# Name of Your Kit
+Kit-name-1: '&aKit Usuario'
+Kit-name-2: '&bKit Soldado'
+Kit-name-3: '&5Kit Blaze'
+Kit-name-4: '&6Kit No Disponible'
+Kit-name-5: '&9Kit Guerrero'
+Massage-Kit1-Take: '&aHas elegido el kit usuario!'
+Massage-Kit2-Take: '&bHas elegido el kit soldado!'
+Massage-Kit3-Take: '&5Has elegido el kit blaze!'
+Massage-Kit4-Take: '&6Has elegido el kit no disponible!'
+Massage-Kit5-Take: '&9Has elegido el kit guerrero!'
+# Kit1 Arrmor
+Helmet-1: 306
+ChestPlate-1: 307
+Leggings-1: 308
+Boots-1: 309
+# Kit2 Arrmor
+Helmet-2: 310
+ChestPlate-2: 307
+Leggings-2: 308
+Boots-2: 313
+# Kit3 Arrmor
+Helmet-3: 310
+ChestPlate-3: 311
+Leggings-3: 308
+Boots-3: 309
+# Kit4 Arrmor
+Helmet-4: 306
+ChestPlate-4: 307
+Leggings-4: 308
+Boots-4: 309
+# Kit5 Arrmor
+Helmet-5: 306
+ChestPlate-5: 307
+Leggings-5: 308
+Boots-5: 309
+# Swords
+Sword-1: 272
+Sword-2: 267
+Sword-3: 276
+Sword-4: 268
+Sword-5: 283
+#Rod and Bow
+Rod: 346
+Bow: 261
+# Amount of Arrow you can change number of amount
+Arrow-Amount-Kit1: 1
+Arrow-Amount-Kit2: 2
+Arrow-Amount-Kit3: 3
+Arrow-Amount-Kit4: 4
+Arrow-Amount-Kit5: 5
+#======================================================================
+# DeathEvent
+Player-BroadCast-DeathEvent: '&c%PLAYER% &9ha sido asesinado por &c%KILLER%'
+Player-DeathEvent-Sound: true
+valueOf-Sound-DeathEvent: ENDERMAN_HIT
+Player-DeathEvent-Drops-ItemsHeal: false
+Player-DeathEvent-Item-getDrops: 322
+# PickItemEvent
+Player-PickItem-Heal: false
+Player-PickItem-Item-Healing: 322
+Player-PickItem-Message: '&aHas sido curado.'
+#Have Fun <3 !

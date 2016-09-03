@@ -1,0 +1,20 @@
+name: BlazeFFA
+main: com.gekatik.Main
+author: GekaDEV
+version: 1.0
+
+commands:
+ ChangeKit:
+ ffa:
+ Build:
+ Fix:
+ SetFFA:
+ CC:
+ Bc:
+ BroadCast:
+ BCast:
+ Clear:
+ Globalping:
+ msg:
+ stats:
+ blazeffa:
